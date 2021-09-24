@@ -4,6 +4,7 @@ payload:
 
   # DOMAIN dan SUBDOMAIN WHATSAPP
 
+  - DOMAIN-KEYWORD,whatsapp
   - DOMAIN,whatsapp.com
   - DOMAIN,whatsapp.net
   - DOMAIN-SUFFIX,g.whatsapp.net
