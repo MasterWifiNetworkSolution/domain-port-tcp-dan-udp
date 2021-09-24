@@ -1,0 +1,31 @@
+payload: 
+  
+  # WHATSAPP
+
+  # DOMAIN dan SUBDOMAIN WHATSAPP
+
+  - DOMAIN,whatsapp.com
+  - DOMAIN,whatsapp.net
+  - DOMAIN-SUFFIX,g.whatsapp.net
+  - DOMAIN-SUFFIX,v.whatsapp.net
+  - DOMAIN-SUFFIX,mmg.whatsapp.net
+  - DOMAIN-SUFFIX,graph.facebook.com
+  - DOMAIN-SUFFIX,static.whatsapp.net
+  - DOMAIN-SUFFIX,docker.whatsapp.biz
+  - DOMAIN-SUFFIX,dl.bintray.com
+  - DOMAIN-SUFFIX,akamai.bintray.com
+  
+  # TCP dan UDP WHATSAPP
+  
+  - DST-PORT,3478
+  - DST-PORT,4244
+  - DST-PORT,5222
+  - DST-PORT,5223
+  - DST-PORT,5228
+  - DST-PORT,5288
+  - DST-PORT,5242
+  - DST-PORT,5349
+  - DST-PORT,34784
+  - DST-PORT,45395
+  - DST-PORT,50318
+  - DST-PORT,59234
